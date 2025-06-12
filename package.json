@@ -31,7 +31,8 @@
   "dependencies": {
     "prismjs": "^1.22.0",
     "vite-plugin-dts": "^3.6.3",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "typescript": "^5.0.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.2.0",
